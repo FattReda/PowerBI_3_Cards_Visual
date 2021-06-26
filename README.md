@@ -2,8 +2,8 @@
 Examples : 
 
 Preview 1 :
-![](images/Preview1.png)
+![](images/Preview%201.png)
 
-![Preview 2 :]
-(Preview2.png)
+Preview 2 :
+![](images/Preview%202.png)
 
