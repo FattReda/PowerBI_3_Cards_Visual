@@ -2,7 +2,7 @@
 Examples : 
 
 Preview 1 :
-<img src="./Preview1.png">
+![](images/Preview1.png)
 
 ![Preview 2 :]
 (Preview2.png)
